@@ -2,4 +2,4 @@
 
 I specialize in building & optimizing high-performance web applications and backend architectures in various frameworks including Ruby on Rails and React. I am now exploring the field of Computer Vision and building projects that interest me! I'm always excited to learn new technologies and contribute to exciting projects.
 
-I'm currently a Computer Science & Engineering student with an AI specialization at **The Ohio State University** and a Web Developer & Data Analyst Intern at the **University of Michigan**, working with LSA Technology Services on the Web & Application Development Services team!
+I'm currently a Computer Science & Engineering student with an AI specialization at **The Ohio State University** and a Software Engineer & Web Developer Intern at the **University of Michigan**, working with LSA Technology Services on the Web & Application Development Services team!
